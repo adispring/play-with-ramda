@@ -1,0 +1,18 @@
+{
+  "name": "play-with-ramda",
+  "version": "1.0.0",
+  "description": "play with ramda source code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ramda",
+    "functional-programming"
+  ],
+  "author": "wangzengdi",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "0.26.1"
+  }
+}
